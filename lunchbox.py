@@ -1,5 +1,5 @@
 # Menu
-print("Bem vindos a loja do Vinicius do Nascimento Evangelista")
+print("Bem vindos a loja de marmita do Vinicius do Nascimento Evangelista")
 print("----------------------+       Cardápio      +---------------------+")
 print("+---------------------+---------------------+---------------------+")
 print("|      Tamanho        |  Bife Acebolado(BA)  |  Filé de Frango(FF)  |")

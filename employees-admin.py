@@ -1,0 +1,1 @@
+print("Bem vindos a empresa do Vinicius do Nascimento Evangelista")
