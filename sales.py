@@ -1,4 +1,4 @@
-print("Bem-vindo a loja do Vinicius do Nascimento Evangelista")
+print("Bem-vindos a loja do Vinicius do Nascimento Evangelista")
 
 print("Entre com o valor do pedido: ", end="")
 valorDoPedido = float(input())
